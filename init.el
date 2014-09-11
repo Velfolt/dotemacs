@@ -37,4 +37,3 @@
  'after-init-hook
  '(lambda ()
     (load-all (concat config-dir (file-name-as-directory "auto")))))
-

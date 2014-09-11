@@ -1,3 +1,6 @@
+;;(package-initialize)
+(package-refresh-contents)
+
 (load-package 'move-text)
 (load-package 'expand-region)
 (load-package 'haskell-mode)

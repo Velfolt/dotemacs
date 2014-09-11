@@ -6,7 +6,7 @@
       ;; (powerline-default-theme)
 
       (load-package 'subatomic-theme)
-      ;;(setq subatomic-high-contrast t)
+      (setq subatomic-high-contrast t)
       (load-theme 'subatomic t))
   (progn
     (load-package 'subatomic256-theme)
